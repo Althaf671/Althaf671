@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Web App fullstack developer <br>💡 I'm focused in design and develop landing page website<br>📚 I'm a second semester student of Digital Business at UNP<br>🌱 I’m currently learning Next.js and C# - .Net soon
+Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop landing page website<br>📚 I'm a second semester student of Digital Business at UNP<br>🌱 I’m currently learning Next.js and C# - .Net soon
 
 
 ## 🌐 Socials:
