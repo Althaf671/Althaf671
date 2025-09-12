@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop landing page website and web application<br>📚 I'm a first semester student of Informatics at Universitas Andalas<br>🌱 I’m an NET Web API, Express.js, and Next.js enthusiast
 
+I'm mainly a EPNP(Express-Postgres-Next.js-Prisma) developer 
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AlthafMulya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@althafmly) 
