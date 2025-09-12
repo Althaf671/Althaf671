@@ -27,7 +27,7 @@ Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%230EA5A4.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![cookie-parser](https://img.shields.io/badge/cookie--parser-%233B3B98.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23FF6A00.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet-%230F172A.svg?style=for-the-badge&logo=express&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-%230F172A.svg?style=for-the-badge&logo=express&logoColor=white)![bcrypt](https://img.shields.io/badge/bcrypt-%23232F3E.svg?style=for-the-badge&logo=auth0&logoColor=white)
 
 ## Database and ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
