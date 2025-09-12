@@ -22,12 +22,12 @@ Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.23.12-0055FF?style=for-the-badge&logo=framer)
-![Swiper](https://img.shields.io/badge/Swiper-11.2.10-0077B6?style=for-the-badge&logo=swiper)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-5.87.4-0EA5A4?style=for-the-badge&logo=tanstack)
-![cookie-parser](https://img.shields.io/badge/cookie--parser-1.4.7-3B3B98?style=for-the-badge&logo=fastapi)
-![jsonwebtoken (JWT)](https://img.shields.io/badge/jsonwebtoken-9.0.2-FF6A00?style=for-the-badge&logo=jwt)
-![Helmet](https://img.shields.io/badge/Helmet-8.1.0-0F172A?style=for-the-badge&logo=express)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-%230077B6.svg?style=for-the-badge&logo=swiper&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%230EA5A4.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![cookie-parser](https://img.shields.io/badge/cookie--parser-%233B3B98.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23FF6A00.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-%230F172A.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ## Database and ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
