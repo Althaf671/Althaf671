@@ -1,8 +1,5 @@
 # 💫 About Me:
-Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop landing page website and web application<br>📚 I'm a first semester student of Informatics at Universitas Andalas<br>🌱  
-
-1. I'm a Next.js, .NET web api enthusiast
-2. New to Angular
+Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop landing page website and web application<br>📚 I'm a first semester student of Informatics at Universitas Andalas<br>🌱 I'm a Next.js, .NET web api enthusiast | New to Angular
 
 
 ## Programming Language
