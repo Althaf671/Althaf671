@@ -10,6 +10,9 @@ Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
+## Goals and interest
+Web Application! I love making a big dashboard with lot of data! currently working on my own starter dashboard template hehe
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Althaf671&icon=0&color=2)](https://visitcount.itsvg.in)
