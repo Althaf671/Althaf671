@@ -13,7 +13,7 @@ Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Goals and interest
-Web Application! I love making a big dashboard with lot of data! currently working on my own starter dashboard template hehe
+Web Application huh 💔🥀
 
 
 ---
