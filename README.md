@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop web application<br>📚 I'm a first semester student of Informatics at Universitas Andalas<br>🌱 I'm an Angular and ASP.NET Core developer 
+Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'm a Fullstack web app developer  <br>💡 I'm focused in design and develop web application<br>📚 I'm a first semester student of Informatics at Universitas Andalas<br>🌱 I'm a Fullstack ASP.NET Core developer 
 
 
 ## Programming Language
