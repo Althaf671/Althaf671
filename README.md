@@ -8,7 +8,7 @@ Hello I'm Althaf 👋🏻<br><br>Welcome to my Github profile :) <br><br>💻 I'
 
 ## TechStack
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ---
