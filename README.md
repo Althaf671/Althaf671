@@ -1,7 +1,7 @@
 🇮🇩
 A student at Universitas Andalas and a developer from West Sumatera
 
-![Me]![yes](https://github.com/user-attachments/assets/334cd976-512f-480b-bc8a-7ee4ac332825)
+![me](https://github.com/user-attachments/assets/e23eee32-d264-4151-9d54-bd29bd588166)
 
 ## Programming Language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
