@@ -12,6 +12,7 @@ You stink
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/.NET%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+They said, Clean Architecture with CQRS inside Vertical Slice is good, well yeah I agree.
 
 
 
