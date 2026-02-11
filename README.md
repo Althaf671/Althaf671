@@ -14,7 +14,4 @@ You stink
 
 They said, Clean Architecture with CQRS inside Vertical Slice is good, well yeah I agree.
 
-please don't force me to use stuff outside c# 💔🥀 
-
-
 
