@@ -14,7 +14,7 @@ You stink
 and other tools from .NET ecosystem!
 
 ## 👨‍💻 Currently Exploring
-• Clean Architecture
+Clean Architecture (CA)
 • SOLID Principles
 • Domain Driven Design (DDD)
 • CQRS
