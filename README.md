@@ -18,5 +18,6 @@ and other tools from .NET ecosystem!
 • SOLID Principles
 • Domain Driven Design (DDD)
 • CQRS
+• Vertical Slice Architecture
 
 
