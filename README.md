@@ -19,5 +19,5 @@ Clean Architecture (CA)
 • Domain Driven Design (DDD)
 • CQRS
 • Vertical Slice Architecture
-
+• Aggregate Root Design
 
