@@ -5,7 +5,6 @@ A student at Universitas Andalas and a developer from West Sumatera
 You stink
 
 ## 💻 Techstacks 
-Primarily: C# and .NET ecosystem;  </br>
-Secondary: HTML, CSS, JS with Astro.js;  </br>
-Other: Java, Ada, i think that's all.
+C# .NET and Js/Ts Astro as primary (well i hate Js/Ts). </br>
+Java and Ada probably as hobby or college stuff.
 
