@@ -5,6 +5,6 @@ A student at Universitas Andalas and a developer from West Sumatera
 You stink
 
 ## 💻 Techstacks 
-C# .NET and Js/Ts Astro as primary (well i hate Js/Ts). </br>
+C# .NET and Js/Ts with Svelte and Astro as primary (well i hate Js/Ts). </br>
 Java and Ada probably as hobby or college stuff.
 
